@@ -1,0 +1,2 @@
+body{margin:20px;font-family:Arial,sans-serif}.list{grid-template-columns:repeat(3,1fr);gap:20px;padding:0;list-style:none;display:grid}.list li{overflow:hidden}.list img{object-fit:cover;width:100%;height:220px;display:block}.btn{color:#fff;cursor:pointer;background-color:#2878d0;border:none;border-radius:5px;margin:20px auto;padding:12px 24px;font-size:16px;display:block}.btn:hover{background-color:#1b5da8}
+/*# sourceMappingURL=hw-17-js4.5744a52c.css.map */
